@@ -16,10 +16,16 @@ css file linked to the index html gives the page a beautifil view.
 
 The program prompts the user for his date of birth, then calculates their Akan name depending on the day of the week they were born.
 
-i used Zeller congruence formular for the day calculation
+I used Zeller congruence formular for the day calculation
 
 Authors
-I did this - Duncan Otieno
+
+Name : Duncan Ochieng Otieno
+
+Contact : +254713415982 , dotieno@safaricom.co.ke
+
+My program link - https://github.com/Duncankenji/Akan_names
+
 Researched from https://artofmemory.com/ where i got the formulae.
 
 License
@@ -27,3 +33,5 @@ This project is not licensed
 
 Acknowledgments
 Lincln Lidanya - helped on the function.
+
+Regards
