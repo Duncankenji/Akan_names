@@ -16,7 +16,7 @@ function demo(month, day, year, gender) {
   if (gender === 'female') {
     akanName = female[zeller(month, day, year)];
   }
-  return mons[month-1] + ' ' + day + ', ' + year + ' = ' + days[zeller(month, day, year)] +'\nYour Akan name is '+ akanName;
+  return mons[month-1] + ' ' + day + ', ' + year + ' = ' + days[zeller(month, day, year)] +'\n -----Your Akan name is '+ akanName;
 }
 
 function doDemo() {
